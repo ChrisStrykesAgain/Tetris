@@ -100,7 +100,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Screen Interfaces" Type="Folder">
 					<Item Name="Simulated Screen Interface.lvlib" Type="Library" URL="../RT Code/Simulated Screen Interface/Simulated Screen Interface.lvlib"/>
 				</Item>
-				<Item Name="Controller.lvlib" Type="Library" URL="../RT Code/Controller/Controller.lvlib"/>
+				<Item Name="Error Handler.lvlib" Type="Library" URL="../RT Code/Error Handler/Error Handler.lvlib"/>
 				<Item Name="Game Engine.lvlib" Type="Library" URL="../RT Code/Game Engine/Game Engine.lvlib"/>
 			</Item>
 			<Item Name="Game Pad Interface" Type="Folder">
