@@ -4,10 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder">
-		<Item Name="Display Game Board Msg" Type="Folder">
-			<Item Name="Display Game Board Msg.lvclass" Type="LVClass" URL="../Screen Interface Messages/Display Game Board Msg/Display Game Board Msg.lvclass"/>
-		</Item>
-		<Item Name="Update Display Msg Msg.lvclass" Type="LVClass" URL="../Screen Interface Messages/Update Display Msg Msg/Update Display Msg Msg.lvclass"/>
+		<Item Name="Display Game Board Msg.lvclass" Type="LVClass" URL="../Screen Interface Messages/Display Game Board Msg/Display Game Board Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder"/>
 	<Item Name="Screen Interface.lvclass" Type="LVClass" URL="../Screen Interface/Screen Interface.lvclass"/>
