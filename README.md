@@ -11,7 +11,12 @@ This isn't thoroughly fleshed out, but a few key concepts are as follows:
 * Our display device, however, is an actor; we don't want to hang the game waiting for a draw to occur.
 * Abstract classes define and provide core functionality for both display and input device classes. You /must/ extend these to make anything work.
 
-## Work needed
+## Minor work needed
+
+* Clean out out lint VIs
+* Build/run script to separate compiled code
+
+## Major work needed
 
 * Build a simulated display and joystick. I'm envsioning host side code that serves as the display and input. I'll probably use a network stream to get data to the display and a shared variable to get gamepad values.
 * Integrate actual hardware. The myRIO allows you to use standard USB gamepads, so that's mostly done. I'll likely  have two different display methods:
