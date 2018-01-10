@@ -5,5 +5,5 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder"/>
-	<Item Name="Controller.lvclass" Type="LVClass" URL="../Controller/Controller.lvclass"/>
+	<Item Name="Error Handler.lvclass" Type="LVClass" URL="../Error Handler/Error Handler.lvclass"/>
 </Library>
