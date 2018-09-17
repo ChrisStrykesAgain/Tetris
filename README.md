@@ -1,3 +1,7 @@
+# Disclaimer
+
+This is actually pretty terrible code and has a lot of flaws. I would do it much differently these days. That being said, the piece rotation algorithm works pretty well, as I remember it. So you might steal that if you want.
+
 # Details for Tetris
 
 This is a side project I've been working on to build a physical tetris device; I've been targeting a myRIO, but the code should be similar regardless. It uses the Actor Framework, and is saved in LabVIEW 2017.
